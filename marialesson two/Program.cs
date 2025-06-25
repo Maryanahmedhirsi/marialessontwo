@@ -19,6 +19,8 @@ namespace marialesson_two
 
             Console.WriteLine("dada ardaygu waa" + age);
             Console.WriteLine("magaca ardaygu waa" + stdname);
+
+
         }
     }
 }
